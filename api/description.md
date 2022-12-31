@@ -1,6 +1,6 @@
 # Description
 
-A Description is the JSON-representable structure that describes the properties of a collection. It's a intersection of [https://json-schema.org][JSON Schema], meaning it has a subset of its features while adding some others. In the filesystem pattern it is saved as `collectionId.description.{json,js,ts}`.
+A Description is the JSON-representable structure that describes the properties of a collection. It's a intersection of [JSON Schema](https://json-schema.org), meaning it has a subset of its features while adding some others. In the filesystem pattern it is saved as `collectionId.description.{json,js,ts}`.
 
 The minimost possible JSON-type description contained the two required properties ($id, properties) is as follows:
 

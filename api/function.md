@@ -1,6 +1,6 @@
 # Function
 
-When used within the context of this document, a Function (or API Function when required to be more explicit) refers to an endpoint function. Funcions can be used by entities of both collection and controllabe types. To register a function using the filesystem use the `collectionId@functionName.{ts,js}` naming pattern.
+When used within the context of this document, a Function (or endpoint function when required to be more explicit) refers to an endpoint function. Funcions can be used by entities of both collection and controllabe types. To register a function using the filesystem use the `collectionId@functionName.{ts,js}` naming pattern.
 
 Example:
 ```
